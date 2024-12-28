@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alien-translator/static/css/main.df37158e.css",
+    "main.js": "/alien-translator/static/js/main.9a9ac8d8.js",
+    "static/media/SFPro.otf": "/alien-translator/static/media/SFPro.b85d841dacb040b84951.otf",
+    "static/media/Dandy.ttf": "/alien-translator/static/media/Dandy.273a96e3222451f95d76.ttf",
+    "index.html": "/alien-translator/index.html",
+    "main.df37158e.css.map": "/alien-translator/static/css/main.df37158e.css.map",
+    "main.9a9ac8d8.js.map": "/alien-translator/static/js/main.9a9ac8d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df37158e.css",
+    "static/js/main.9a9ac8d8.js"
+  ]
+}
