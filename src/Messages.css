@@ -1,0 +1,13 @@
+.Messages-Container {
+  height: 100%;
+  overflow-y: scroll;
+  overflow-x: wrap;
+  padding-top: 2rem;
+  width: 100%;
+}
+
+@media (max-width: 990px) {
+  .Messages-Container {
+    padding-top: 1.5rem;
+  }
+}

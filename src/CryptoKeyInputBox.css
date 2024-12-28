@@ -1,0 +1,9 @@
+.CryptoKey-inputBox {
+  text-align: center;
+  border-radius: 30px;
+  height: 2.75rch;
+  width: 3rch;
+  font-size: 1rem;
+  font-weight: bold;
+  background-color: var(style);
+}
